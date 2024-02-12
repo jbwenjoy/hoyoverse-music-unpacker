@@ -66,7 +66,7 @@ public class HonkaiStarRail extends DifferentialPatchingGame {
     @Override
     public File getGameDirectory() {
 
-        return new File(this.basePath, "Games");
+        return new File(this.basePath, "Game");
     }
 
     @Override
