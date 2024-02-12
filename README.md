@@ -84,7 +84,7 @@ java -jar hoyoverse-music-unpacker.jar --game="D:\Games\Genshin Impact" --output
 
 This will extract all music in `D:\Documents\Musics` (a subdirectory will be created for each game).
 
-### About the differences between global version and the mainland China version
+### About the differences between the global version and the mainland China version (Star Rail)
 
 The mainland China version differs from the global version in file structure. 
 If you are running a global version of Honkai Star Rail, make sure in `src/main/java/ovh/akio/hmu/games/HonkaiStarRail.java`,
