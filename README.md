@@ -104,6 +104,9 @@ public File getGameDirectory() {
     }
 ```
 
+You may also change your game file name as well, as described in: https://github.com/alexpado/hoyoverse-music-unpacker/issues/15#issuecomment-1937963052. 
+But please make sure you changed it back afterwards.
+
 # 3. About update packages
 
 When a game is going to be updated in the next few days, Hoyoverse allows player to download the update package before
